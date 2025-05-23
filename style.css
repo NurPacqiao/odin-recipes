@@ -1,0 +1,72 @@
+#homepage{
+    background-color: antiquewhite;
+    text-align: center;
+    width: auto;
+    display: block;
+}
+
+.title{
+    margin: 20px;
+    border: 1px solid red;
+}
+
+.recipes-names{
+    margin: 50px;
+    border: 1px solid green;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.cheese-body{
+    background-color: antiquewhite;
+}
+
+
+.cheese-list{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: auto;
+    margin-left: 610px;
+}
+
+.cheese-list.steps{
+    margin-left: 450px;
+}
+
+li{
+   margin: 5px; 
+}
+
+.cheese-h1{
+    margin-bottom: 30px;
+    padding: 10px;
+    padding-top: 0;
+}
+
+.cheese-title{
+    text-align: center;
+    width: auto;
+    padding: 10px 20px 5px 20px;
+    margin: 10px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+.description{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#lasagna-steps{
+    margin-left: 600px;
+}
+
+#macaroni-steps{
+    margin-left: 520px;
+}
+
